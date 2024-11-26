@@ -2,6 +2,8 @@
 
 A flappy bird clone running on RP2040 where the player has to collect tiny mushrooms.
 
+![Flappy Mycologist](./images/IMG_4980.JPEG)
+
 ## Hardware
 
 The code is primarily to run on my [custom hardware](https://github.com/arijitdasgupta/talisman), which is really just a RP2040 with some buttons and a screen. that I made.
